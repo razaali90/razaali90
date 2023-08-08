@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raza</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" height=200 width=250 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🔭 I’m currently working on **Fine-tuning Large Language Models**
 
