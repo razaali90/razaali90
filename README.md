@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <img align="right" alt="Coder GIF" height=200 width=250 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🔭 I’m currently working on **Fine-tuning Large Language Models**
+- 🔭 I’m currently working on **Large Language Models and RAG**
 
-- 🌱 I’m currently learning **Diffusion Models**
+- 🌱 I’m currently learning **AI Agents**
 
-- 👯 I’m looking to collaborate on **Computer Vision, NLP, Text to Speech**
+- 👯 I’m looking to collaborate on **Computer Vision, NLP, Text to Speech, Speech to text**
 
 - 💬 Ask me about **Computer Vision, NLP**
 
